@@ -1,5 +1,8 @@
 # node-bigdownloader
 
+Download big files, with auto resume. This module assumes you know the hash and size beforehand.
+
+Example:
 ```
 "use strict";
 var path			= require('path');
@@ -24,3 +27,4 @@ downloader
 		console.log('onFinish');
 	})
 	.start()
+```
