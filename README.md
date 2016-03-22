@@ -3,7 +3,7 @@
 Download big files, with auto resume. This module assumes you know the hash and size beforehand.
 
 Example:
-```
+```javascript
 "use strict";
 var path			= require('path');
 var BigDownloader 	= require('./BigDownloader.js');
