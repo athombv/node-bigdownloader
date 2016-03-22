@@ -1,0 +1,11 @@
+{
+  "name": "bigdownloader",
+  "version": "1.0.0",
+  "description": "Download big files without worries. Included auto-resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emile Nijssen <emile@athom.nl>",
+  "license": "MIT"
+}
