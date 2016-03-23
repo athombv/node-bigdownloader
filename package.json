@@ -1,6 +1,6 @@
 {
   "name": "bigdownloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Download big files without worries. Included auto-resume",
   "main": "index.js",
   "scripts": {
