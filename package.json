@@ -1,6 +1,6 @@
 {
   "name": "bigdownloader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Download big files without worries. Included auto-resume",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Emile Nijssen <emile@athom.nl>",
   "license": "MIT",
   "dependencies": {
-    "jswget": "git+https://github.com/athombv/jswget.git"
+    "request": "^2.69.0"
   }
 }
