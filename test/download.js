@@ -3,10 +3,10 @@ var path			= require('path');
 var BigDownloader 	= require('..');
 
 var downloader = new BigDownloader({
-	url		: 'http://www.colocenter.nl/speedtest/1000mb.bin',
-	path	: '1000mb.bin',
-	hash	: '00f5c773ce410ef6705a3c5a1aedbc923085c181',
-	size	: 1048576000, // if not given, extract size from headers
+	url		: 'http://www.colocenter.nl/speedtest/50mb.bin',
+	path	: '50mb.bin',
+	hash	: '1648df576e9b8ad247bfb38fef010aa683e274fc',
+	//size	: 1048576000, // if not given, extract size from headers
 	debug	: true
 })
 
