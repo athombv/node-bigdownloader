@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.69.0"
+  },
+  "config": {
+    "npmPublishTagProduction": "latest",
+    "npmPublishTagStaging": "beta"
   }
 }
